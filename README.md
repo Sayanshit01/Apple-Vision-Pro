@@ -2,7 +2,7 @@
 This project is a clone website of Apple Vision Pro, a platform for accessing various features of all new apple vision pro.
 
 # Live Demo
-Click the link: https://clonevisionpro.000webhostapp.com/
+Click the link:https://sayanshit01.github.io/Apple-Vision-Pro/
 
 
 ## Acknowledgements
@@ -28,8 +28,8 @@ Click the link: https://clonevisionpro.000webhostapp.com/
 ## Demo
 
 Click the link to go......
+https://sayanshit01.github.io/Apple-Vision-Pro/
 
-https://clonevisionpro.000webhostapp.com/
 ## Features
 
 - Light/dark mode toggle
